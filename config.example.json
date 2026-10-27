@@ -1,0 +1,7 @@
+{
+  "workspace": "D:\\path\\to\\workspace",
+  "vault": "D:\\path\\to\\vault",
+  "timeoutMinutes": 45,
+  "maxNewNotes": 10,
+  "logKeep": 12
+}

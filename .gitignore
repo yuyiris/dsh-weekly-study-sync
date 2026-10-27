@@ -1,0 +1,16 @@
+# runtime / local-only data - never commit these
+logs/
+resources/logs/
+.lock
+config.json
+state.json
+*.tmp
+*.agent.log
+*.agent.log.err
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
